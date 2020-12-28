@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6872e29a-2ea8-499a-8ec8-99b402d08082" name="Default Changelist" comment="init">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/src/presets/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iohub-engine/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/iohub-engine/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iohub-engine/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/iohub-engine/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iohub-engine/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/iohub-engine/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iohub-engine/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/iohub-engine/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iohub-engine/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/iohub-engine/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/manage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +26,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedIndex" value="1" />
@@ -37,8 +53,10 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/tmp" />
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/db" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/services" />
     </key>
   </component>
@@ -172,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609152038677</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="init">
+      <created>1609152214755</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1609152214755</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
