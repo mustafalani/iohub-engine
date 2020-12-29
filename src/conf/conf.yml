@@ -1,0 +1,12 @@
+server:
+  system-id: abcdef0123456789
+
+
+
+logging:
+    helptext: Logging to file, if 'log_to_file' False log to console. Path to /var/log/
+        only if you run this program as deamon. 'log_level' can be DEBUG, INFO, WARNING,
+        ERROR.
+    log_to_file: True
+    log_path: "/var/log/iohub/engine/"
+    log_level: "INFO"

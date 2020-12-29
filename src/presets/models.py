@@ -1,7 +1,6 @@
 from django.db import models
 
 
-# Create your models here.
 class Preset(models.Model):
     name = models.CharField(max_length=32, unique=True)
     description = models.TextField(blank=True, null=True)

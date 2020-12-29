@@ -2,15 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6872e29a-2ea8-499a-8ec8-99b402d08082" name="Default Changelist" comment="init">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/channels/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/channels/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/channels/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/channels/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/channels/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/channels/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/channels/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/channels/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conf/conf.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/presets/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/src/presets/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iohub-engine/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/iohub-engine/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iohub-engine/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/iohub-engine/asgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iohub-engine/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/iohub-engine/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iohub-engine/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/iohub-engine/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iohub-engine/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/iohub-engine/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iohub-engine/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/iohub-engine/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/presets/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/presets/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +41,6 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
-  </component>
   <component name="ProjectId" id="1m3ryAU0CQ6YXUSySYKbXZ2lOTJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -53,11 +56,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/services" />
       <recent name="$PROJECT_DIR$/tmp" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/db" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/services" />
     </key>
   </component>
   <component name="RunManager">
@@ -197,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609152214755</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="init">
+      <created>1609171864930</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1609171864930</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
